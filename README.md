@@ -1,110 +1,34 @@
+<div align="center">
 
+# 👋🏻 Olá! Eu sou **Felipe Olímpio**  
+<br/>
 
-**`Programador Junior`**
-
-
-
-Me chamo Felipe Olimpio tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas.
-
----
-
-###  Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+**Programador Júnior** | 21 anos | Estudante de **Análise e Desenvolvimento de Sistemas**
 
 <br/>
-<br/>
-###  Minha Contribuições
 
+</div>
+
+## 🛠️ **Linguagens & Ferramentas**
+
+<div align="center">
+  
+| **Frontend** | **Backend** | **Ferramentas** |
+|--------------|-------------|------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) |
+
+</div>
+
+<br/>
+
+## 📊 **Minhas Contribuições**
+
+<div align="center">
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake.svg"
-  />
-  <img 
-    alt="🐍 Meu gráfico de contribuições" 
-    src="https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake-dark.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="🐍 Contribuições" src="https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+</div>
 
-
-
-
+<br/><br/>

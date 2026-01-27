@@ -2,7 +2,6 @@
 
 **`Programador Junior`**
 
-# ![snake gif](https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake.gif)
 
 
 Me chamo Felipe Olimpio tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas.
@@ -89,4 +88,7 @@ Me chamo Felipe Olimpio tenho 21 anos, sou estudante de Análise e Desenvolvimen
 
 <br/>
 <br/>
+
+
+# ![snake gif](https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake.gif)
 

@@ -88,7 +88,21 @@ Me chamo Felipe Olimpio tenho 21 anos, sou estudante de Análise e Desenvolvimen
 
 <br/>
 <br/>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img 
+    alt="🐍 Meu gráfico de contribuições" 
+    src="https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
 
 
-# ![snake gif](https://github.com/felipeolimpio07/felipeolimpio07/blob/output/github-contribution-grid-snake.gif)
+
 

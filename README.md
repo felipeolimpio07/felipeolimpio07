@@ -3,7 +3,7 @@
 # 👋🏻 Olá! Eu sou **Felipe Olímpio**  
 <br/>
 
-**Programador Júnior** | 21 anos | Estudante de **Engenharia de SOftware**
+**Programador Júnior** | 21 anos | Estudante de **Engenharia de Software**
 
 <br/>
 

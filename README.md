@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏻 Olá! Eu sou **Felipe Olímpio** <br/>
+#  Olá! Eu sou **Felipe Olímpio** <br/>
 
 **Programador Júnior** | 22 anos | Estudante de **Engenharia de Software**
 
